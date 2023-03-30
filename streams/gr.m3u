@@ -122,7 +122,7 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.gr" status="online",Star (720p)
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="Tilemousiki.gr" status="online",Tilemousiki (480p) [Not 24/7]
-http://wpso.com:1936/hls/music1.m3u8
+http://65.108.62.57:8080/live/greekmusic.m3u8
 #EXTINF:-1 tvg-id="TV100.gr" status="online",TV 100 (576p) [Not 24/7]
 https://live.fm100.gr/hls/tv100/index.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" status="online",Creta (540p) [Not 24/7]
